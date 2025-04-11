@@ -1,0 +1,9 @@
+;; *************** HUD_INCLUDES.dat ***************
+;; HUD includes export. Friday, April 11, 2025 5:37:34 PM
+
+DrawTilesDirect #HUD_BANK, HUD__0_0_STRING, #1, #1, #HUD_OFFSET
+DrawVariableTiles #7, #1, #BOX_0_ASSET_1_MAX_VALUE , #BOX_0_ASSET_1_BLANK , myLives, #BOX_0_ASSET_1_IMAGE , #HUD_OFFSET 
+DrawTilesDirect #HUD_BANK, HUD__0_4_STRING, #16, #1, #HUD_OFFSET
+DrawVariableTiles #21, #1, #BOX_0_ASSET_5_MAX_VALUE , #BOX_0_ASSET_5_BLANK , RedKey, #BOX_0_ASSET_5_IMAGE , #HUD_OFFSET 
+DrawVariableTiles #23, #1, #BOX_0_ASSET_6_MAX_VALUE , #BOX_0_ASSET_6_BLANK , YelKey, #BOX_0_ASSET_6_IMAGE , #HUD_OFFSET 
+DrawVariableTiles #22, #1, #BOX_0_ASSET_7_MAX_VALUE , #BOX_0_ASSET_7_BLANK , BlueKey, #BOX_0_ASSET_7_IMAGE , #HUD_OFFSET 
